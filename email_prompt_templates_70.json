@@ -1,0 +1,352 @@
+[
+  {
+    "intent": "Say Yes",
+    "tone": "Friendly",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be friendly, and the intent is to say yes. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say Yes",
+    "tone": "Professional",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be professional, and the intent is to say yes. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say Yes",
+    "tone": "Polite",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be polite, and the intent is to say yes. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say Yes",
+    "tone": "Direct",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be direct, and the intent is to say yes. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say Yes",
+    "tone": "Apologetic",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be apologetic, and the intent is to say yes. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say Yes",
+    "tone": "Thankful",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be thankful, and the intent is to say yes. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say Yes",
+    "tone": "Urgent",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be urgent, and the intent is to say yes. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say No",
+    "tone": "Friendly",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be friendly, and the intent is to say no. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say No",
+    "tone": "Professional",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be professional, and the intent is to say no. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say No",
+    "tone": "Polite",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be polite, and the intent is to say no. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say No",
+    "tone": "Direct",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be direct, and the intent is to say no. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say No",
+    "tone": "Apologetic",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be apologetic, and the intent is to say no. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say No",
+    "tone": "Thankful",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be thankful, and the intent is to say no. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Say No",
+    "tone": "Urgent",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be urgent, and the intent is to say no. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Ask for More Info",
+    "tone": "Friendly",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be friendly, and the intent is to ask for more info. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Ask for More Info",
+    "tone": "Professional",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be professional, and the intent is to ask for more info. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Ask for More Info",
+    "tone": "Polite",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be polite, and the intent is to ask for more info. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Ask for More Info",
+    "tone": "Direct",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be direct, and the intent is to ask for more info. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Ask for More Info",
+    "tone": "Apologetic",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be apologetic, and the intent is to ask for more info. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Ask for More Info",
+    "tone": "Thankful",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be thankful, and the intent is to ask for more info. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Ask for More Info",
+    "tone": "Urgent",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be urgent, and the intent is to ask for more info. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Delay Reply",
+    "tone": "Friendly",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be friendly, and the intent is to delay reply. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Delay Reply",
+    "tone": "Professional",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be professional, and the intent is to delay reply. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Delay Reply",
+    "tone": "Polite",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be polite, and the intent is to delay reply. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Delay Reply",
+    "tone": "Direct",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be direct, and the intent is to delay reply. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Delay Reply",
+    "tone": "Apologetic",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be apologetic, and the intent is to delay reply. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Delay Reply",
+    "tone": "Thankful",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be thankful, and the intent is to delay reply. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Delay Reply",
+    "tone": "Urgent",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be urgent, and the intent is to delay reply. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Follow Up",
+    "tone": "Friendly",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be friendly, and the intent is to follow up. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Follow Up",
+    "tone": "Professional",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be professional, and the intent is to follow up. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Follow Up",
+    "tone": "Polite",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be polite, and the intent is to follow up. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Follow Up",
+    "tone": "Direct",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be direct, and the intent is to follow up. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Follow Up",
+    "tone": "Apologetic",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be apologetic, and the intent is to follow up. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Follow Up",
+    "tone": "Thankful",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be thankful, and the intent is to follow up. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Follow Up",
+    "tone": "Urgent",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be urgent, and the intent is to follow up. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Confirm Something",
+    "tone": "Friendly",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be friendly, and the intent is to confirm something. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Confirm Something",
+    "tone": "Professional",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be professional, and the intent is to confirm something. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Confirm Something",
+    "tone": "Polite",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be polite, and the intent is to confirm something. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Confirm Something",
+    "tone": "Direct",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be direct, and the intent is to confirm something. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Confirm Something",
+    "tone": "Apologetic",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be apologetic, and the intent is to confirm something. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Confirm Something",
+    "tone": "Thankful",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be thankful, and the intent is to confirm something. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Confirm Something",
+    "tone": "Urgent",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be urgent, and the intent is to confirm something. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Decline Politely",
+    "tone": "Friendly",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be friendly, and the intent is to decline politely. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Decline Politely",
+    "tone": "Professional",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be professional, and the intent is to decline politely. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Decline Politely",
+    "tone": "Polite",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be polite, and the intent is to decline politely. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Decline Politely",
+    "tone": "Direct",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be direct, and the intent is to decline politely. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Decline Politely",
+    "tone": "Apologetic",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be apologetic, and the intent is to decline politely. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Decline Politely",
+    "tone": "Thankful",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be thankful, and the intent is to decline politely. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Decline Politely",
+    "tone": "Urgent",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be urgent, and the intent is to decline politely. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Request Action",
+    "tone": "Friendly",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be friendly, and the intent is to request action. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Request Action",
+    "tone": "Professional",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be professional, and the intent is to request action. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Request Action",
+    "tone": "Polite",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be polite, and the intent is to request action. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Request Action",
+    "tone": "Direct",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be direct, and the intent is to request action. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Request Action",
+    "tone": "Apologetic",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be apologetic, and the intent is to request action. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Request Action",
+    "tone": "Thankful",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be thankful, and the intent is to request action. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Request Action",
+    "tone": "Urgent",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be urgent, and the intent is to request action. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Thank Sender",
+    "tone": "Friendly",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be friendly, and the intent is to thank sender. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Thank Sender",
+    "tone": "Professional",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be professional, and the intent is to thank sender. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Thank Sender",
+    "tone": "Polite",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be polite, and the intent is to thank sender. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Thank Sender",
+    "tone": "Direct",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be direct, and the intent is to thank sender. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Thank Sender",
+    "tone": "Apologetic",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be apologetic, and the intent is to thank sender. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Thank Sender",
+    "tone": "Thankful",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be thankful, and the intent is to thank sender. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Thank Sender",
+    "tone": "Urgent",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be urgent, and the intent is to thank sender. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Acknowledge Message",
+    "tone": "Friendly",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be friendly, and the intent is to acknowledge message. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Acknowledge Message",
+    "tone": "Professional",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be professional, and the intent is to acknowledge message. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Acknowledge Message",
+    "tone": "Polite",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be polite, and the intent is to acknowledge message. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Acknowledge Message",
+    "tone": "Direct",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be direct, and the intent is to acknowledge message. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Acknowledge Message",
+    "tone": "Apologetic",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be apologetic, and the intent is to acknowledge message. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Acknowledge Message",
+    "tone": "Thankful",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be thankful, and the intent is to acknowledge message. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  },
+  {
+    "intent": "Acknowledge Message",
+    "tone": "Urgent",
+    "prompt": "Respond to the following email from {client_name} (received on {current_date}), whose subject is \"{original_email_subject}\". The tone of the response should be urgent, and the intent is to acknowledge message. The original message was:\n\n\"{original_email_content}\"\n\nWrite a clear, natural-sounding email reply in the selected tone and intent."
+  }
+]
